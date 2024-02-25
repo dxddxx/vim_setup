@@ -7,5 +7,4 @@ This is my vim config file, my vim setup is all contained in this one `.vimrc` f
 `git`
 `curl`
 `vim`
-
 I guess
